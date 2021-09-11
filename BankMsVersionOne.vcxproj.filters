@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Ressourcendateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Form1.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AdminDetails.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="RegisterAdminAsk.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="DashboardAdmin.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="RegisterEmployee.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="EmpRegisterAsAdminask.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="ListOfAllEmpAdmins.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="DashboardEmpAdmin.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AddCustomerForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="ListOfCustomers.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MoneyWithdrawForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="DepositMoney.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TransactionHistory.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountHistory.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AllTransactionHistory.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="BalanceEnquiryForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="AmountTransferForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="PasswordForgotAdminForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MainAdminPasswordForgot.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CppCLR_WinformsProjekt.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Form1.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AdminDetails.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="RegisterAdminAsk.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="DashboardAdmin.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="RegisterEmployee.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="EmpRegisterAsAdminask.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="ListOfAllEmpAdmins.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="DashboardEmpAdmin.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AddCustomerForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="ListOfCustomers.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MoneyWithdrawForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="DepositMoney.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="TransactionHistory.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AccountHistory.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AllTransactionHistory.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="BalanceEnquiryForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="AmountTransferForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="PasswordForgotAdminForm.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+    <ClCompile Include="MainAdminPasswordForgot.cpp">
+      <Filter>Headerdateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="LPage.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="AddAdminimg.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="newAddUserimg.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="twoColumnimg.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="oneColumimg.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="AdminDashboardSDK.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="AddEmployeeImg.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+    <Image Include="NewAddEmpImg.png">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
